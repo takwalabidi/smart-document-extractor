@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pillow
+pymupdf
+easyocr
+ollama
+pydantic
