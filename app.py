@@ -10,7 +10,7 @@ from src.llm_extractor import extract_fields_with_ollama
 
 # 1. Configuration générale de la page
 st.set_page_config(
-    page_title="Smart Extractor Document",
+    page_title="Smart Document Extractor",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -337,7 +337,7 @@ def render_fields_card(doc_index: int, filename: str, data: dict) -> None:
 with st.sidebar:
     st.markdown(
         compact_html(
-            "<h3>📄 <b>Smart Extractor</b> <span style='color:#818cf8;font-weight:700;'>Document</span></h3>"
+            "<h3>📄 <b>Smart Document</b> <span style='color:#818cf8;font-weight:700;'>Extractor</span></h3>"
         ),
         unsafe_allow_html=True,
     )
