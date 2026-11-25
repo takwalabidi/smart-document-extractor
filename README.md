@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.jpeg" alt="Smart Document Extractor Logo" width="300">
+<img src="logo.jpeg" alt="Smart Document Extractor Logo" width="300">
 
 # 📄 Smart Document Extractor
 
