@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo.jpeg" alt="Smart Document Extractor Logo" width="300">
+
 # 📄 Smart Document Extractor
 
 ### Extraction intelligente d'informations à partir de pièces justificatives
@@ -244,3 +246,17 @@ EasyOCR ne combine pas l'arabe et le français dans un même lecteur. Utilisez d
 Fait avec ❤️ en Python · 🟦 OpenCV · 🟩 EasyOCR · 🟧 Ollama · 🟥 Streamlit
 
 </div>
+---
+
+## 👩‍💻 À propos de l'auteure
+
+**Takwa Labidi  étudiante en troisième année  Licence en Mathématiques et Informatique (L3) à la Faculté des Sciences de Tunis (FST), Université de Tunis El Manar.**
+
+
+
+
+
+🔗 **GitHub :** [@takwalabidi](https://github.com/takwalabidi)
+
+---
+
