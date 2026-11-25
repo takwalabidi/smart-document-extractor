@@ -2,6 +2,7 @@ import json  # Pour formater et exporter les résultats en JSON
 import re  # Pour nettoyer proprement les chaînes HTML multilignes
 import streamlit as st  # Framework web interactif
 
+
 # Importe tes modules existants dans src/
 from src.preprocessor import load_image_from_upload, preprocess_image
 from src.ocr_engine import extract_ocr_text
