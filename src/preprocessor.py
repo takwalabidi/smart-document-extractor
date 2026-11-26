@@ -153,6 +153,7 @@ def preprocess_image(
     return enhanced
 
 
+
 def run_batch_preprocessing(data_dir: str = "data", output_dir: str = "outputs/cleaned_images") -> list[str]:
     """Parcourt toutes les images de data_dir et enregistre les versions nettoyées."""
     # Affiche un message de début dans le terminal
@@ -211,4 +212,3 @@ def run_batch_preprocessing(data_dir: str = "data", output_dir: str = "outputs/c
 # Exécute le traitement complet uniquement si ce fichier est lancé directement
 if __name__ == "__main__":
     run_batch_preprocessing(data_dir="data", output_dir="outputs/cleaned_images")
-    
